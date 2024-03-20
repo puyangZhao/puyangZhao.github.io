@@ -35,6 +35,7 @@ Skills
   * Python
   * SAS
   * R
+  * Julia
   * C++
   * Matlab
 * Frameworks
