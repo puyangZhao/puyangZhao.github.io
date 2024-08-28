@@ -22,5 +22,4 @@ Data mining 💡
 Applications of machine learning in health and behavioral sciences 🧠
 And more! 🌟
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=270&t=n&d=cxKmT6HOSk7l_lT872vRuZ_OOE7u7r2XHU3NHpkqKiY'></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=tt&d=clIdEPFSxTObYL5YCT6KPfejmqi13_-8ETks5Uwv8eQ&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
