@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course"
 permalink: /teaching/2024_fall_teaching-2
 venue: "The University of Texas Health Science Center at Houston, Department of Biostatistics and Data Science"
-date: 2024-09-01
+date: 2024-08-26
 location: "Houston, TX, USA"
 ---
 
