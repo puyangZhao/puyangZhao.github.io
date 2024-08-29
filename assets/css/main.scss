@@ -29,8 +29,6 @@ body::before {
     background-image: url('d2.jpg'); /* 替换为你的图片路径 */
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: rgba(255, 255, 255, 0.3); /* 40%透明度的白色覆盖层 */
-    z-index: -1; /* 确保伪元素在内容下方 */
 }
 
 
