@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
 Puyang's personal website
 ======
 👋 Hi, I'm Puyang!
@@ -18,8 +16,11 @@ Puyang's personal website
 
 🔬 My research interests include:
 
-Data mining 💡
-Applications of machine learning in health and behavioral sciences 🧠
-And more! 🌟
+Data mining 💡  
+Applications of machine learning in health and behavioral sciences 🧠  
+And more! 🌟  
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=260&t=n&d=clIdEPFSxTObYL5YCT6KPfejmqi13_-8ETks5Uwv8eQ&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
+<!-- 添加地图容器 -->
+<div id="map-container">
+    <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=260&t=n&d=clIdEPFSxTObYL5YCT6KPfejmqi13_-8ETks5Uwv8eQ&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
+</div>
