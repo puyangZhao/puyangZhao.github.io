@@ -25,11 +25,17 @@ body {
 
 body::before {
     content: '';
-    position: absolute; /* 将fixed改为absolute */
-    background-image: url('d2.jpg'); /* 替换为你的图片路径 */
+    position: absolute; /* Keep this as absolute */
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('d2.jpg'); /* Ensure the path is correct */
     background-size: cover;
     background-repeat: no-repeat;
+    z-index: -1; /* This will place it behind other content */
 }
+
 
 
 .sitemap {
