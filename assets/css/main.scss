@@ -39,10 +39,12 @@ body::before {
 #map-container {
     width: 200px; /* 根据需要调整宽度 */
     height: 150px; /* 根据需要调整高度 */
-    bottom: 10px;
-    right: 10px;
-    z-index: 1000;
+    position: sticky; /* 使用 sticky 使元素在滚动时固定 */
+    bottom: 10px; /* 当元素触及视窗底部时保持 10px 的间距 */
+    right: 10px; /* 距离右侧 10px */
+    z-index: 1000; /* 确保元素在其他元素之上 */
 }
+
 .sitemap {
     display: none;
 }
