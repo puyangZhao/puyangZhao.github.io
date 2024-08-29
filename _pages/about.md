@@ -9,31 +9,35 @@ redirect_from:
 
 # Welcome to Puyang's Digital Den! 🚀
 
-## Who am I? 🤔
+# 👋 Hello, Data Explorers! I'm [Your Name]
 
-## 👋 Hello, I'm Puyang!
+## 🎓 Education
+```python
+def education():
+    return {
+        "degree": "Master's in Statistics",
+        "skills": ["statistics", "stochastic processes"],
+        "power_level": "over 9000"
+    }
+```
 
-Imagine swimming in an ocean of data, using statistical magic to uncover the mysteries of health - that's what I do every day!
+## 🔬 Research Interests
+- 💎 Data Mining: Unearthing information treasures from data mountains
+- 🧠 Machine Learning in Health & Behavioral Sciences: Teaching AI to understand humans
+- 🚀 Always ready to venture into uncharted research territories!
 
-🎓 I'm currently a Ph.D. student in Biostatistics and Data Science at The University of Texas Health Science Center at Houston. My research is like being a data detective, focused on cracking the secrets of nicotine and tobacco, especially e-cigarette use behaviors and their health impacts. 📊
+## 💡 Why This Field?
+Because every data point tells a story, and I'm here to be the storyteller! 
+Combining cutting-edge stats with real-world health issues to make a difference.
 
-🌏 Before coming to Texas, I delved deep into Mathematics and Statistics at The University of Melbourne, earning my master's degree. There, I mastered the "spells" of statistics and stochastic processes, laying a solid foundation for my current research. 📈
+## 🌈 Future Vision
+```sql
+SELECT better_world
+FROM data_and_statistics
+WHERE health_improved = TRUE;
+```
 
-## 🔬 My Research Interests:
-
-- Data Mining: Like an archaeologist, unearthing precious information treasures from vast amounts of data 💎
-- Applications of Machine Learning in Health and Behavioral Sciences: Using the power of AI to decipher the puzzles of human behavior 🧠
-- And more to explore! I'm always curious and open to new research areas 🚀
-
-## 💡 Why Choose This Field?
-
-I believe that by combining advanced statistical methods with real-world health issues, we can make significant contributions to improving human health. Behind every data point is a real story, and my job is to make these stories heard and understood.
-
-## 🌈 Vision for the Future
-
-I dream of a day when we can harness the power of data and statistics to create a healthier, better world. And now, I'm working hard to make this dream a reality.
-
-Join me on this data adventure! Let's explore the magic of statistics and uncover the mysteries of health together! 🚀✨
+## 🚀 Join the Adventure!
 
 
 <div id="globe-container" style="width: 270px; height: 270px; overflow: hidden; position: relative;">
