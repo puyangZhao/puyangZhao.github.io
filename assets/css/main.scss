@@ -19,30 +19,31 @@
 @import "base";
 
 html, body {
-    width: 100%;
     height: 100%;
     margin: 0;
     padding: 0;
+    position: relative; /* 确保页面定位 */
 }
 
 body::before {
     content: '';
-    position: fixed;
-    top: 0;
+    position: absolute; /* 如果fixed导致问题，改为absolute试试 */
+    bottom: 0; /* 确保位于底部 */
     left: 0;
     width: 100%;
-    height: 100%;
-    background-image: url('d2.jpg');
-    background-size: cover;
+    height: 50px; /* 根据您的需要调整高度 */
+    background-color: #fff; /* 或者您的背景图 */
     background-repeat: no-repeat;
+    background-size: cover;
     z-index: -1;
 }
 
 .content {
     position: relative;
     z-index: 1;
-    min-height: 100%;  /* 确保内容区域至少与视窗同高 */
+    padding-bottom: 50px; /* 确保内容与底部有足够间隔 */
 }
+
 
 
 @import "utilities";
