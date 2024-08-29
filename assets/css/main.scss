@@ -19,39 +19,15 @@
 @import "base";
 
 body {
-    margin: 0; /* Removes default body margin */
-    height: 100vh; /* Ensures the body takes up the full viewport height */
-    position: relative; /* Ensures that the pseudo-element is positioned relative to the body */
-}
-
-body::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%; /* Set width to 100% to cover the full width */
-    height: 100%; /* Set height to 100% to cover the full height */
+    margin: 0;
+    padding: 0;
+    min-height: 100vh; /* Ensures the body is at least the height of the viewport */
     background-image: url('d2.jpg');
-    background-size: cover; /* You can use contain if you want to avoid cropping */
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: center; /* Centers the background image */
-    z-index: -1; /* Places it behind other content */
+    background-attachment: fixed; /* Keeps the background fixed during scrolling */
+    background-position: center;
 }
-
-
-body::before {
-    content: '';
-    position: absolute; /* Use absolute to cover the full body */
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background-image: url('d2.jpg');
-    background-size: contain; /* Show the whole image */
-    background-repeat: no-repeat;
-    z-index: -1; /* Ensure it is behind the content */
-}
-
 .sitemap {
     display: none;
 }
