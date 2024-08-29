@@ -52,6 +52,14 @@ body::before {
     font-size: 120%; /* Slightly larger text on hover */
 }
 
+a {
+    color: #0044cc; /* Replace with your chosen color code */
+}
+
+/* Optional: Change link color on hover for better visibility */
+a:hover {
+    color: #003366; /* Slightly darker shade of your chosen color */
+}
 
 @import "utilities";
 @import "animations";
