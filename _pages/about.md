@@ -11,29 +11,29 @@ redirect_from:
 
 ## Who am I? 🤔
 
-Hey there! I'm Puyang, a data enthusiast on a mission to unravel the mysteries of health and behavior through the power of numbers. 🔢✨
+## 👋 Hello, I'm Puyang!
 
-## What's my story? 📚
+Imagine swimming in an ocean of data, using statistical magic to uncover the mysteries of health - that's what I do every day!
 
-🎓 Currently, I'm navigating the exciting waters of a Ph.D. in Biostatistics and Data Science at The University of Texas Health Science Center at Houston. My research? It's all about blowing smoke... literally! I'm diving deep into the world of nicotine and tobacco, with a special focus on e-cigarette use behaviors and their health impacts. 💨🔬
+🎓 I'm currently a Ph.D. student in Biostatistics and Data Science at The University of Texas Health Science Center at Houston. My research is like being a data detective, focused on cracking the secrets of nicotine and tobacco, especially e-cigarette use behaviors and their health impacts. 📊
 
-But wait, there's more! I've got a Master of Science degree in Mathematics and Statistics from The University of Melbourne, where I specialized in Statistics and Stochastic Processes. Talk about a solid foundation for data wizardry! 🧙‍♂️📊
+🌏 Before coming to Texas, I delved deep into Mathematics and Statistics at The University of Melbourne, earning my master's degree. There, I mastered the "spells" of statistics and stochastic processes, laying a solid foundation for my current research. 📈
 
-## What makes me tick? 🎯
+## 🔬 My Research Interests:
 
-I'm passionate about:
+- Data Mining: Like an archaeologist, unearthing precious information treasures from vast amounts of data 💎
+- Applications of Machine Learning in Health and Behavioral Sciences: Using the power of AI to decipher the puzzles of human behavior 🧠
+- And more to explore! I'm always curious and open to new research areas 🚀
 
-- 💡 Data Mining: Digging for digital gold in mountains of information
-- 🧠 Machine Learning in Health Sciences: Teaching computers to be our health allies
-- 🔍 Behavioral Sciences: Decoding the quirks of human nature through data
-- 🌟 And so much more! The world of data is my oyster, and I'm always hungry for new challenges!
+## 💡 Why Choose This Field?
 
-## Why am I here? 🌐
+I believe that by combining advanced statistical methods with real-world health issues, we can make significant contributions to improving human health. Behind every data point is a real story, and my job is to make these stories heard and understood.
 
-This website is my digital playground where I share my research, insights, and the occasional data-driven dad joke. Whether you're a fellow data nerd, a curious mind, or just stumbled here by accident, I hope you'll find something to pique your interest!
+## 🌈 Vision for the Future
 
-Ready to embark on a data-driven adventure? Let's crunch some numbers and change the world, one dataset at a time! 🌍📈
+I dream of a day when we can harness the power of data and statistics to create a healthier, better world. And now, I'm working hard to make this dream a reality.
 
+Join me on this data adventure! Let's explore the magic of statistics and uncover the mysteries of health together! 🚀✨
 
 
 <!-- 添加地图容器 -->
