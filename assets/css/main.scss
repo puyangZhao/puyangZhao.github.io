@@ -38,6 +38,15 @@ body::before {
     margin-bottom: 20px; /* 如果有多个块，每个块之间添加一些间隔 */
     border-radius: 8px; /* 可选，为块添加圆角边框 */
 }
+.archive__item {
+    background-color: #ffffff; /* 白色背景 */
+    border: 1px solid #dddddd; /* 灰色边框 */
+    border-radius: 8px; /* 圆角边框 */
+    padding: 15px; /* 内边距 */
+    margin-bottom: 20px; /* 底部外边距，保持出版物之间有间隔 */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* 添加轻微的阴影效果 */
+}
+
 @import "utilities";
 @import "animations";
 @import "tables";
