@@ -17,12 +17,10 @@
 
 @import "reset";
 @import "base";
-body {
-    background-color: #f0f0f0; /* 替换为你想要的背景颜色 */
-    background-image: url('disney.jpg'); /* 替换为你自己的图片路径 */
-    background-size: cover; /* 让背景图像覆盖整个页面 */
-    background-repeat: no-repeat; /* 防止图像重复 */
-    background-attachment: fixed; /* 让背景固定不滚动 */
+.sidebar { /* 假设你的类名是.sidebar */
+    background-color: pink; /* 简单地使用颜色名称 'pink' */
+    /* 如果你需要特定的粉色，可以使用十六进制代码或RGB值 */
+    /* background-color: #ffc0cb; /* 使用浅粉色的十六进制代码 */
 }
 @import "utilities";
 @import "animations";
