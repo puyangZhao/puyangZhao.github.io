@@ -41,6 +41,24 @@ body::before {
 .sitemap {
     display: none;
 }
+/* Changes to the navigation bar to make it "cuter" */
+.navbar {
+    background-color: #f9c6fa; /* Light pink background */
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun, rounded font */
+    border-radius: 10px; /* Rounded corners */
+}
+
+.navbar a {
+    color: #604e8b; /* Soft purple text */
+}
+
+.navbar a:hover {
+    color: #f668b0; /* Bright pink text on hover */
+    text-decoration: none;
+    font-size: 120%; /* Slightly larger text on hover */
+}
+
+
 @import "utilities";
 @import "animations";
 @import "tables";
