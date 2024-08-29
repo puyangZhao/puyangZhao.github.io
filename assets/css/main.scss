@@ -21,11 +21,11 @@
 body {
     margin: 0;
     padding: 0;
-    min-height: 100vh; /* Ensures the body is at least the height of the viewport */
-    background-image: url('d2.jpg');
-    background-size: cover;
+    height: 100%;
+    background-image: url('d2.jpg'); /* 确保路径正确 */
+    background-size: cover; 
     background-repeat: no-repeat;
-    background-attachment: fixed; /* Keeps the background fixed during scrolling */
+    background-attachment: fixed; /* 背景图片固定 */
     background-position: center;
 }
 .sitemap {
