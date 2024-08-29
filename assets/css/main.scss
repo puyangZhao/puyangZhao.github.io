@@ -32,6 +32,12 @@ body::before {
 .publication {
     color: #333; /* 更深的颜色 */
 }
+.publication-block {
+    background-color: #f0f8ff; /* 淡蓝色背景 */
+    padding: 20px; /* 添加一些内边距使文本不会太贴近边缘 */
+    margin-bottom: 20px; /* 如果有多个块，每个块之间添加一些间隔 */
+    border-radius: 8px; /* 可选，为块添加圆角边框 */
+}
 
 
 @import "utilities";
