@@ -38,8 +38,6 @@ body::before {
     margin-bottom: 20px; /* 如果有多个块，每个块之间添加一些间隔 */
     border-radius: 8px; /* 可选，为块添加圆角边框 */
 }
-
-
 @import "utilities";
 @import "animations";
 @import "tables";
