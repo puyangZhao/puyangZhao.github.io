@@ -17,11 +17,7 @@
 
 @import "reset";
 @import "base";
-html, body {
-     min-height: 100%;
-    margin: 0;
-    padding: 0;
-}
+
 body {
     background-image: url('disney.jpg');
     background-size: cover;
