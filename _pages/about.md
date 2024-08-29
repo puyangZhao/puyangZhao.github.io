@@ -23,6 +23,7 @@ redirect_from:
 - And more to explore! I'm always curious and open to new research areas 🚀
 
 Join me on this data adventure! Let's explore the magic of statistics and uncover the mysteries of health together! 🚀✨
+
 *"𝓘𝓷 𝓽𝓱𝓮 𝔀𝓸𝓻𝓵𝓭 𝓸𝓯 𝓭𝓪𝓽𝓪, 𝓮𝓿𝓮𝓻𝔂 𝓿𝓪𝓻𝓲𝓪𝓫𝓵𝓮 𝓽𝓮𝓵𝓵𝓼 𝓪 𝓼𝓽𝓸𝓻𝔂, 𝓪𝓷𝓭 𝓮𝓿𝓮𝓻𝔂 𝓬𝓸𝓻𝓻𝓮𝓵𝓪𝓽𝓲𝓸𝓷 𝓬𝓸𝓾𝓵𝓭 𝓫𝓮 𝓽𝓱𝓮 𝓷𝓮𝔁𝓽 𝓫𝓲𝓰 𝓭𝓲𝓼𝓬𝓸𝓿𝓮𝓻𝔂."*
 
 <div id="globe-container" style="width: 270px; height: 270px; overflow: hidden; position: relative;">
