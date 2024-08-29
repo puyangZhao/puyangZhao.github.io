@@ -36,4 +36,7 @@ I dream of a day when we can harness the power of data and statistics to create 
 Join me on this data adventure! Let's explore the magic of statistics and uncover the mysteries of health together! 🚀✨
 
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=clIdEPFSxTObYL5YCT6KPfejmqi13_-8ETks5Uwv8eQ"></script>>
+<div id="globe-container" style="width: 300px; height: 300px; overflow: hidden; position: relative;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=clIdEPFSxTObYL5YCT6KPfejmqi13_-8ETks5Uwv8eQ"></script>
+</div>
+
