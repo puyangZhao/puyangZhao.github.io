@@ -52,6 +52,38 @@ body::before {
 
 @import "page";
 @import "archive";
+/* 修改整个 archive__item 区域的字体样式 */
+.archive__item {
+    font-family: 'Arial', sans-serif; /* 修改字体 */
+    font-size: 14px; /* 修改字体大小 */
+    color: #333333; /* 修改字体颜色 */
+}
+
+/* 特别修改标题的样式 */
+.archive__item-title {
+    font-family: 'Georgia', serif;
+    font-size: 16px;
+    color: #0056b3; /* 深蓝色 */
+}
+
+/* 修改摘要的字体和颜色 */
+.archive__item-excerpt {
+    font-size: 12px;
+    color: #666666; /* 淡灰色 */
+}
+
+/* 修改链接颜色 */
+.archive__item a {
+    color: #1a0dab; /* 蓝色链接 */
+}
+
+/* 修改图片描述文本的样式 */
+.wordwrap {
+    font-family: 'Courier New', monospace;
+    font-size: 12px;
+    color: #ff4500; /* 橙色 */
+}
+
 @import "sidebar";
 
 @import "vendor/font-awesome/fontawesome";
