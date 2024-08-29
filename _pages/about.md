@@ -9,35 +9,26 @@ redirect_from:
 
 # Welcome to Puyang's Digital Den! 🚀
 
-# 👋 Hello, Data Explorers! I'm [Your Name]
-
 ## 🎓 Education
-```python
-def education():
-    return {
-        "degree": "Master's in Statistics",
-        "skills": ["statistics", "stochastic processes"],
-        "power_level": "over 9000"
-    }
-```
+Master's degree in Statistics - Specializing in statistical analysis and stochastic processes.
 
 ## 🔬 Research Interests
-- 💎 Data Mining: Unearthing information treasures from data mountains
-- 🧠 Machine Learning in Health & Behavioral Sciences: Teaching AI to understand humans
-- 🚀 Always ready to venture into uncharted research territories!
+- Data Mining: Extracting valuable insights from large datasets
+- Machine Learning Applications in Health and Behavioral Sciences
+- Exploring new frontiers in data science and health research
 
-## 💡 Why This Field?
-Because every data point tells a story, and I'm here to be the storyteller! 
-Combining cutting-edge stats with real-world health issues to make a difference.
+## 💡 Research Motivation
+I'm passionate about combining advanced statistical methods with real-world health issues to make meaningful contributions to human health. I believe that every data point tells a story, and it's my mission to bring these stories to light.
 
-## 🌈 Future Vision
-```sql
-SELECT better_world
-FROM data_and_statistics
-WHERE health_improved = TRUE;
-```
+## 🌟 Vision
+I'm working towards a future where the power of data and statistics can be fully harnessed to create a healthier world. My goal is to bridge the gap between complex data analysis and practical health solutions.
 
-## 🚀 Join the Adventure!
+## 🚀 Let's Connect!
+I'm always open to collaboration and new ideas. If you're interested in exploring the fascinating world of health data science, let's connect and make a difference together!
+
+---
+
+*"In the realm of statistics, every number has a tale to tell, and every dataset is an adventure waiting to unfold."*
 
 
 <div id="globe-container" style="width: 270px; height: 270px; overflow: hidden; position: relative;">
