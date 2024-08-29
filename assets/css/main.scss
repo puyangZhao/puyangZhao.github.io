@@ -37,12 +37,15 @@ body::before {
     z-index: -1; /* 确保伪元素在内容下方 */
 }
 #map-container {
-    position: fixed;  /* 使用固定定位来确保它始终在页面的右下角 */
-    bottom: 10px;  /* 距离底部的距离，可以根据需要调整 */
-    right: 10px;  /* 距离右侧的距离，可以根据需要调整 */
-    z-index: 1000;  /* 确保地图在其他元素之上显示 */
-    width: 260px;  /* 地图的宽度，与Clustrmaps提供的尺寸一致 */
-    height: auto;  /* 自动调整高度 */
+    width: 200px; /* 根据需要调整宽度 */
+    height: 150px; /* 根据需要调整高度 */
+    position: fixed; /* 保持固定在页面右下角，或根据需要调整 */
+    bottom: 10px;
+    right: 10px;
+    z-index: 1000;
+}
+.sitemap {
+    display: none;
 }
 @import "utilities";
 @import "animations";
