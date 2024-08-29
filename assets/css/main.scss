@@ -29,6 +29,9 @@ body::before {
     background-repeat: no-repeat;
     z-index: -1;
 }
+.publication {
+    color: #333; /* 更深的颜色 */
+}
 
 
 @import "utilities";
