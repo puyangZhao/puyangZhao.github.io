@@ -18,17 +18,7 @@
 @import "reset";
 @import "base";
 
-/* 确保 html 和 body 覆盖整个页面 */
-html, body {
-    margin: 0;
-    padding: 0;
-    height: 100%;
-    overflow: hidden; /* 防止出现滚动条，先隐藏多余部分 */
-}
 
-body {
-    position: relative; /* 让伪元素相对于 body 定位 */
-}
 
 body::before {
     content: '';
@@ -40,7 +30,7 @@ body::before {
     background-image: url('d2.jpg'); /* 确保路径正确 */
     background-size: cover; /* 覆盖整个区域 */
     background-repeat: no-repeat; /* 不重复背景 */
-    background-position: center; /* 背景居中显示 */
+    
     z-index: -1; /* 背景在所有内容的后面 */
 }
 
