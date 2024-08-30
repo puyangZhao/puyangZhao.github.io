@@ -13,7 +13,7 @@ redirect_from:
 
 ## 🎓 Academic Journey
 - 📊 Ph.D. student in Biostatistics and Data Science, UT Health Science Center at Houston
-- 🇦🇺 M.Sc. in Mathematics and Statistics, University of Melbourne
+- M.Sc. in Mathematics and Statistics, University of Melbourne
 
 ## 🔬 Research Focus
 Applying data science and machine learning to critical health areas:
