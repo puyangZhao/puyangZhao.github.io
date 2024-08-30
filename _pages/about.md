@@ -7,22 +7,38 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to Puyang's Digital Den! 🚀
+# Welcome to Puyang's Personal Websites! 🚀
 
-## 👋 Hello, I'm Puyang!
+# 👋 Hello, I'm Puyang!
 
-🎓 I'm currently a Ph.D. student in Biostatistics and Data Science at The University of Texas Health Science Center at Houston. My research is like being a data detective, focused on cracking the secrets of nicotine and tobacco, especially e-cigarette use behaviors and their health impacts. 📊
+## 🎓 Academic Journey
+- 📊 Ph.D. student in Biostatistics and Data Science, UT Health Science Center at Houston
+- 🇦🇺 M.Sc. in Mathematics and Statistics, University of Melbourne
 
-🌏 Before coming to Texas, I delved deep into Mathematics and Statistics at The University of Melbourne, earning my master's degree. There, I mastered the "spells" of statistics and stochastic processes, laying a solid foundation for my current research. 📈
+## 🔬 Research Focus
+Applying data science and machine learning to critical health areas:
 
-## 🔬 My Research Interests:
+- 🚭 Nicotine and tobacco use behaviors, especially e-cigarettes
+- 🧬 Diabetes research and management
+- 🧠 Alzheimer's disease progression and risk factors
+- 🌬️ Air pollution impacts on public health
+- 🏥 Broader applications of data science in healthcare
 
-- **Data Mining**: Unearthing precious information treasures from vast amounts of data 💎
-- **Machine Learning in Health Sciences**: Using AI to decipher the puzzles of human behavior 🧠
-- **Statistical Modeling**: Building mathematical models to describe and predict health behaviors 📊
-- And more to explore! I'm always curious and open to new research areas 🚀
+## 💡 Key Interests
+- 📊 Statistical modeling for health outcomes
+- 🖥️ Data mining in large-scale health datasets
+- 🤖 Machine learning applications in medical diagnostics
+- 🔄 Time series analysis for disease progression
 
-Join me on this data adventure! Let's explore the magic of statistics and uncover the mysteries of health together! 🚀✨
+## 🚀 Current Projects
+Focusing on e-cigarette research through advanced data science methods:
+
+- 📱 Developing predictive models for e-cigarette use patterns
+- 📈 Analyzing temporal trends in e-cigarette adoption and usage
+- 🧪 Investigating the health impacts of long-term e-cigarette use
+
+## 🤝 Let's Collaborate!
+Passionate about data-driven health research, especially in tobacco control? Let's connect and explore innovative solutions together!
 
 *"𝓘𝓷 𝓽𝓱𝓮 𝔀𝓸𝓻𝓵𝓭 𝓸𝓯 𝓭𝓪𝓽𝓪, 𝓮𝓿𝓮𝓻𝔂 𝓿𝓪𝓻𝓲𝓪𝓫𝓵𝓮 𝓽𝓮𝓵𝓵𝓼 𝓪 𝓼𝓽𝓸𝓻𝔂, 𝓪𝓷𝓭 𝓮𝓿𝓮𝓻𝔂 𝓬𝓸𝓻𝓻𝓮𝓵𝓪𝓽𝓲𝓸𝓷 𝓬𝓸𝓾𝓵𝓭 𝓫𝓮 𝓽𝓱𝓮 𝓷𝓮𝔁𝓽 𝓫𝓲𝓰 𝓭𝓲𝓼𝓬𝓸𝓿𝓮𝓻𝔂."*
 
