@@ -44,7 +44,7 @@ body::before {
     border-radius: 8px; /* 圆角边框 */
     padding: 15px; /* 内边距 */
     margin-bottom: 20px; /* 底部外边距，保持出版物之间有间隔 */
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* 添加轻微的阴影效果 */
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); 
 }
 
 @import "utilities";
