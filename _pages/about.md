@@ -15,27 +15,43 @@ redirect_from:
 - 📊 Ph.D. student in Biostatistics and Data Science, UT Health Science Center at Houston
 - M.Sc. in Mathematics and Statistics, University of Melbourne
 
-## 🔬 Research Focus
-Applying data science and machine learning to critical health areas:
+ am currently a Research Assistant (RA) and Teaching Assistant (TA) at UTHealth, focusing on tobacco control research. My academic journey includes ongoing Ph.D. studies in Biostatistics and Data Science at UT Health Science Center at Houston, preceded by an M.Sc. in Mathematics and Statistics from the University of Melbourne.
 
-- 🚭 Nicotine and tobacco use behaviors, especially e-cigarettes
-- 🧬 Diabetes research and management
-- 🧠 Alzheimer's disease progression and risk factors
-- 🌬️ Air pollution impacts on public health
-- 🏥 Broader applications of data science in healthcare
+## 🔬 Research Interests
 
-## 💡 Key Interests
-- 📊 Statistical modeling for health outcomes
-- 🖥️ Data mining in large-scale health datasets
-- 🤖 Machine learning applications in medical diagnostics
-- 🔄 Time series analysis for disease progression
+My research interests span a wide range of areas in biostatistics and data science, with a particular focus on applications in public health and tobacco control:
 
-## 🚀 Current Projects
-Focusing on e-cigarette research through advanced data science methods:
+- Analysis of data from wearable devices
+- Longitudinal & EMA (Ecological Momentary Assessment) data analysis
+- Multivariate analysis and time series analysis
+- Machine learning applications in health research
+- Spatial statistics and Bayesian computation
+- Clinical trials design and analysis
+- E-cigarette and tobacco use behaviors
+- Environmental health impacts
 
-- 📱 Developing predictive models for e-cigarette use patterns
-- 📈 Analyzing temporal trends in e-cigarette adoption and usage
-- 🧪 Investigating the health impacts of long-term e-cigarette use
+## 📊 Current Projects
+
+I'm currently involved in several exciting projects that leverage advanced statistical and machine learning techniques to address critical issues in public health:
+
+1. Analyzing wearable device data to uncover patterns in tobacco use behaviors
+2. Developing machine learning models for predicting smoking cessation outcomes
+3. Conducting longitudinal analyses of e-cigarette adoption and usage trends
+4. Using EMA studies to investigate environmental triggers for tobacco use
+
+Through these projects, I aim to contribute to the development of more effective strategies for tobacco control and public health interventions.
+
+## 📬 Contact
+
+Feel free to reach out if you're interested in collaborating or have any questions about my research:
+
+Department of Biostatistics and Data Science  
+The University of Texas Health Science Center at Houston  
+Houston, TX, 77030  
+Email: Puyang.Zhao@uth.tmc.edu
+
+
+
 
 ## 🤝 Let's Collaborate!
 Passionate about data-driven health research, especially in tobacco control? Let's connect and explore innovative solutions together!
@@ -46,3 +62,6 @@ Passionate about data-driven health research, especially in tobacco control? Let
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=clIdEPFSxTObYL5YCT6KPfejmqi13_-8ETks5Uwv8eQ"></script>
 </div>
 
+---
+
+*Last updated: August 2024*
