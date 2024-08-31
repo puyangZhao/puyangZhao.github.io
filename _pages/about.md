@@ -35,7 +35,7 @@ My research interests span a wide range of areas in biostatistics and data scien
 I'm currently involved in several exciting projects that leverage advanced statistical and machine learning techniques to address critical issues in public health:
 
 1. Analyzing wearable device data to uncover patterns in tobacco use behaviors
-2. Developing machine learning models for predicting smoking cessation outcomes
+2. Developing machine learning models for predicting vaping cessation outcomes
 3. Conducting longitudinal analyses of e-cigarette adoption and usage trends
 4. Using EMA studies to investigate environmental triggers for tobacco use
 
