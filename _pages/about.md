@@ -32,10 +32,6 @@ My research interests span a wide range of areas in biostatistics and data scien
 ## 📬 Contact
 
 Feel free to reach out if you're interested in collaborating or have any questions about my research:
-
-Department of Biostatistics and Data Science  
-The University of Texas Health Science Center at Houston  
-Houston, TX, 77030  
 Email: Puyang.Zhao@uth.tmc.edu
 
 <div id="globe-container" style="width: 270px; height: 270px; overflow: hidden; position: relative;">
