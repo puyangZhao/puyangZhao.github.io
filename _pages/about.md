@@ -15,7 +15,7 @@ redirect_from:
 - 📊 Ph.D. student in Biostatistics and Data Science, UT Health Science Center at Houston
 - M.Sc. in Mathematics and Statistics, University of Melbourne
 
- am currently a Research Assistant (RA) and Teaching Assistant (TA) at UTHealth, focusing on tobacco control research. My academic journey includes ongoing Ph.D. studies in Biostatistics and Data Science at UT Health Science Center at Houston, preceded by an M.Sc. in Mathematics and Statistics from the University of Melbourne.
+I am currently a Research Assistant (RA) and Teaching Assistant (TA) at UTHealth, focusing on tobacco control research. My academic journey includes ongoing Ph.D. studies in Biostatistics and Data Science at UT Health Science Center at Houston, preceded by an M.Sc. in Mathematics and Statistics from the University of Melbourne.
 
 ## 🔬 Research Interests
 
