@@ -3,7 +3,7 @@ title: "CENN: Capsule-Enhanced Neural Network with Innovative Metrics for Robust
 collection: publications
 permalink: /publication/CENN
 excerpt: 'This paper introduces a groundbreaking Capsule-enhanced neural network (CENN) that significantly advances the state of SER through a robust and reproducible deep learning framework.'
-date:  April 2024
+date: September 2024
 venue: 'Knowledge-Based Systems'
 type: "Journal"
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4868001'
