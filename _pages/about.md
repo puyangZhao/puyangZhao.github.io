@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Puyang's Personal Websites"
 author_profile: true
 redirect_from: 
   - /about/
