@@ -40,13 +40,12 @@ Email: Puyang.Zhao@uth.tmc.edu
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=clIdEPFSxTObYL5YCT6KPfejmqi13_-8ETks5Uwv8eQ"></script>
 </div>
 
-<img src="images/tianjin.jpg" alt="First Image" width="100">
-<img src="images/uth.png" alt="Second Image" width="100">
-<img src="images/melb.jpg" alt="Third Image" width="100">
-<img src="images/uic.jpg" alt="Fourth Image" width="100">
-<img src="images/stat.jpg" alt="Fifth Image" width="100">
-<img src="images/hkbu.jpg" alt="Sixth Image" width="100">
-
+<img src="images/tianjin.jpg" alt="First Image" style="height:80px; width:100px;">
+<img src="images/uth.png" alt="Second Image" style="height:80px; width:100px;">
+<img src="images/melb.jpg" alt="Third Image" style="height:80px; width:100px;">
+<img src="images/uic.jpg" alt="Fourth Image" style="height:80px; width:100px;">
+<img src="images/stat.jpg" alt="Fifth Image" style="height:80px; width:100px;">
+<img src="images/hkbu.png" alt="Sixth Image" style="height:80px; width:100px;">
 
 ---
 
