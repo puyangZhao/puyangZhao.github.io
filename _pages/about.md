@@ -40,6 +40,8 @@ Email: Puyang.Zhao@uth.tmc.edu
   <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=clIdEPFSxTObYL5YCT6KPfejmqi13_-8ETks5Uwv8eQ"></script>
 </div>
 
+![First Image](images/uth.png) ![Second Image](images/2.png) ![Third Image](images/tianjin.png)
+
 ---
 
 *Last updated: August 2024*
