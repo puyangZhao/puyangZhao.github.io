@@ -22,6 +22,7 @@ I am currently a Research Assistant (RA) and Teaching Assistant (TA) at UTHealth
 My research interests span a wide range of areas in biostatistics and data science, with a particular focus on applications in public health and tobacco control:
 
 - Analysis of data from wearable devices
+- Exploring the application of speech emotion recognition technology in medical settings for improved patient care and diagnosis.
 - Longitudinal & EMA (Ecological Momentary Assessment) data analysis
 - Multivariate analysis and time series analysis
 - Machine learning applications in health research
