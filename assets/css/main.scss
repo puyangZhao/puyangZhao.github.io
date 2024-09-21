@@ -17,18 +17,7 @@
 
 @import "reset";
 @import "base";
-body::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url('d2.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    z-index: -1;
-}
+
 .publication {
     color: #333; /* 更深的颜色 */
 }
