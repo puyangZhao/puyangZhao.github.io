@@ -41,8 +41,8 @@ Email: Puyang.Zhao@uth.tmc.edu
 </div>
 
 <img src="images/tianjin.jpg" alt="First Image" style="height:80px; width:100px;">
-<img src="images/uth.png" alt="Second Image" style="height:80px; width:180px;">
-<img src="images/melb.jpg" alt="Third Image" style="height:80px; width:180px;">
+<img src="images/uth.png" alt="Second Image" style="height:80px; width:140px;">
+<img src="images/melb.jpg" alt="Third Image" style="height:80px; width:100px;">
 <img src="images/uic.jpg" alt="Fourth Image" style="height:80px; width:100px;">
 <img src="images/stat.jpg" alt="Fifth Image" style="height:80px; width:100px;">
 <img src="images/hkbu.png" alt="Sixth Image" style="height:80px; width:100px;">
