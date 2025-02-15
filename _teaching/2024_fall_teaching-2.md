@@ -8,6 +8,10 @@ date: 2024-08-26
 location: "Houston, TX, USA"
 ---
 
-Assisted in teaching and tutoring for PH 1700 Intermediate Biostatistics
-Graded homework assignments, unit tests, and final examinations
-Provided additional support to students during office hours
+Led STATA tutorials and instructional sessions for PH 1700 Intermediate Biostatistics and PH 1976 Data Analytics and Predictions
+
+Developed comprehensive solution guides and evaluated student performance through assignments, tests, and examinations
+
+Provided individualized consultations during office hours, helping students master complex statistical concepts and programming skills
+
+Supported course instruction by creating supplementary learning materials and grading assessments
